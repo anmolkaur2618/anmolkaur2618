@@ -1,4 +1,4 @@
-![logo](https://github.com/anmolkaur2618/banner/blob/main/ok.pdf)
+
 
 <h1 align="center">Hi 👋, I'm Anmolpreet Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
