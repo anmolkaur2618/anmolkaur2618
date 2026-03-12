@@ -1,7 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm Anmolpreet Kaur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <img align="right" aLt="coding" width="400" src="https://camo.githubusercontent.com/4f40ae2ce6ed399620464ebdc59b82e8f4182fa50c83dd9e70870ca3f16e1019/68747470733a2f2f6d656469612e74656e6f722e636f6d2f515643314e6d623954775541414141692f636f64696e672e676966">
 
